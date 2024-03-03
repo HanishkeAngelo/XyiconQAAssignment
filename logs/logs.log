@@ -1,0 +1,3 @@
+2024-03-02 18:50:55 [main] ERROR utils.log.Log - Error
+2024-03-02 18:50:55 [main] INFO  utils.log.Log - info
+2024-03-02 18:50:55 [main] WARN  utils.log.Log - warn
